@@ -14,7 +14,7 @@ namespace Calculadora {
 
             Console.WriteLine();
 
-            Console.WriteLine("Escolha: ");
+            Console.WriteLine("Escolha a operação que deseja executar: ");
             Console.WriteLine("1 - Soma, 2 - Subtração, 3 - Multiplicação, 4 - Divisão, 0 - Volta");
             Cal.Opçao = int.Parse(Console.ReadLine());
             
