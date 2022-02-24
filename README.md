@@ -1,2 +1,2 @@
 # Projeto Calculadora
-Desafio de Projeto Calculadd
+Repositório criado para o desafio Projeto Calculadora.
